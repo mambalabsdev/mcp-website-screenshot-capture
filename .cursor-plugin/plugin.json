@@ -1,7 +1,7 @@
 {
   "name": "mcp-website-screenshot-capture",
   "displayName": "Website Screenshot Capture",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "MCP server for Website Screenshot Capture. Screenshot a list of URLs as PNG or JPEG, full page or window, with the final URL, status, and title per page. Runs on Apify.",
   "author": {
     "name": "Mamba Labs",
